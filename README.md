@@ -1,1 +1,1 @@
-this is a basic quiz app
+This is a basic quiz app
